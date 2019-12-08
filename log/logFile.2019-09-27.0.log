@@ -1,0 +1,20 @@
+17:15:35.223 [main] INFO  c.i.SpringbootDemo1Application:50- Starting SpringbootDemo1Application on DESKTOP-JMMF5O5 with PID 1436 (G:\App\springboot_demo1\target\classes started by YJJ in G:\App\springboot_demo1)
+17:15:35.274 [main] INFO  c.i.SpringbootDemo1Application:648- No active profile set, falling back to default profiles: default
+17:15:43.626 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+17:15:45.520 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+17:15:50.904 [main] INFO  c.i.SpringbootDemo1Application:59- Started SpringbootDemo1Application in 19.877 seconds (JVM running for 24.839)
+17:16:23.704 [main] INFO  c.i.SpringbootDemo1Application:50- Starting SpringbootDemo1Application on DESKTOP-JMMF5O5 with PID 14560 (G:\App\springboot_demo1\target\classes started by YJJ in G:\App\springboot_demo1)
+17:16:23.707 [main] INFO  c.i.SpringbootDemo1Application:648- No active profile set, falling back to default profiles: default
+17:16:26.834 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+17:16:28.100 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+17:16:29.610 [main] INFO  c.i.SpringbootDemo1Application:59- Started SpringbootDemo1Application in 6.462 seconds (JVM running for 6.876)
+17:24:57.356 [main] INFO  c.i.SpringbootDemo1Application:50- Starting SpringbootDemo1Application on DESKTOP-JMMF5O5 with PID 28320 (G:\App\springboot_demo1\target\classes started by YJJ in G:\App\springboot_demo1)
+17:24:57.361 [main] INFO  c.i.SpringbootDemo1Application:648- No active profile set, falling back to default profiles: default
+17:25:01.277 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+17:25:02.373 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+17:25:04.630 [main] INFO  c.i.SpringbootDemo1Application:59- Started SpringbootDemo1Application in 7.998 seconds (JVM running for 9.402)
+19:54:38.612 [main] INFO  c.i.SpringbootDemo1Application:50- Starting SpringbootDemo1Application on DESKTOP-JMMF5O5 with PID 20984 (G:\App\springboot_demo1\target\classes started by YJJ in G:\App\springboot_demo1)
+19:54:38.668 [main] INFO  c.i.SpringbootDemo1Application:648- No active profile set, falling back to default profiles: default
+19:54:45.966 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+19:54:47.375 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+19:54:51.425 [main] INFO  c.i.SpringbootDemo1Application:59- Started SpringbootDemo1Application in 20.838 seconds (JVM running for 26.285)

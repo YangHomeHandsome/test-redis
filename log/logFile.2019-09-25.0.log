@@ -1,0 +1,14 @@
+16:59:44.997 [main] INFO  c.i.SpringbootDemo1Application:50- Starting SpringbootDemo1Application on DESKTOP-JMMF5O5 with PID 27024 (G:\App\springboot_demo1\target\classes started by YJJ in G:\App\springboot_demo1)
+16:59:45.000 [main] INFO  c.i.SpringbootDemo1Application:648- No active profile set, falling back to default profiles: default
+16:59:48.405 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+16:59:49.444 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+16:59:51.242 [main] INFO  c.i.SpringbootDemo1Application:59- Started SpringbootDemo1Application in 7.016 seconds (JVM running for 8.28)
+16:59:51.476 [http-nio-8080-exec-2] INFO  com.itmayiedu.aop.LogAspect:31- controller: com.itmayiedu.Controller.UserController.insertUser
+17:00:03.099 [http-nio-8080-exec-3] INFO  com.itmayiedu.aop.LogAspect:31- controller: com.itmayiedu.Controller.UserController.insertUser
+17:13:12.669 [main] INFO  c.i.SpringbootDemo1Application:50- Starting SpringbootDemo1Application on DESKTOP-JMMF5O5 with PID 17196 (G:\App\springboot_demo1\target\classes started by YJJ in G:\App\springboot_demo1)
+17:13:12.672 [main] INFO  c.i.SpringbootDemo1Application:648- No active profile set, falling back to default profiles: default
+17:13:16.140 [main] INFO  com.zaxxer.hikari.HikariDataSource:110- HikariPool-1 - Starting...
+17:13:17.215 [main] INFO  com.zaxxer.hikari.HikariDataSource:123- HikariPool-1 - Start completed.
+17:13:19.050 [main] INFO  c.i.SpringbootDemo1Application:59- Started SpringbootDemo1Application in 7.12 seconds (JVM running for 7.572)
+17:13:35.409 [http-nio-8080-exec-3] INFO  com.itmayiedu.aop.LogAspect:47- controller: com.itmayiedu.Controller.UserController.insertUser  method = @AopTest
+17:13:42.240 [http-nio-8080-exec-4] INFO  com.itmayiedu.aop.LogAspect:47- controller: com.itmayiedu.Controller.UserController.insertUser  method = @AopTest
